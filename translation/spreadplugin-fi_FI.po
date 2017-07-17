@@ -1,0 +1,533 @@
+# Robin Lund <robin@robinlund.no>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: Spreadplugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-29 22:11+0100\n"
+"PO-Revision-Date: 2015-05-29 00:32+0200\n"
+"Last-Translator: Kimmo Laine <keisari.laine@gmail.com>\n"
+"Language-Team: Kimmo Laine\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: fi_FI\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options.php:40 spreadplugin.php:2234
+msgid "Settings"
+msgstr "Asetukset"
+
+#: options.php:44
+msgid ""
+"These settings will be used as default and can be overwritten by the "
+"extended shortcode."
+msgstr ""
+"Näitä asetuksia käytetään oletuksena, ja ne voidaan kumota laajennetulla "
+"lyhytkoodilla"
+
+#: options.php:50
+msgid "Shop id:"
+msgstr "Kauppatunnus:"
+
+#: options.php:54
+msgid "Shop country:"
+msgstr "Kaupan maa:"
+
+#: options.php:77
+msgid "Shop source:"
+msgstr "Kaupan lähde:"
+
+#: options.php:84
+msgid "Spreadshirt API Key:"
+msgstr "Spreashirtin API avain:"
+
+#: options.php:88
+msgid "Spreadshirt API Secret:"
+msgstr "Spreadshirtin API salaisuus:"
+
+#: options.php:92
+msgid "Limit articles per page:"
+msgstr "Rajoita tuotteiden määrä per sivu:"
+
+#: options.php:96
+msgid "Image size:"
+msgstr "Kuvan koko:"
+
+#: options.php:104
+msgid "Product category:"
+msgstr "Tuotekategoria:"
+
+#: options.php:107
+msgid "All products"
+msgstr "Kaikki tuotteet"
+
+#: options.php:109 options.php:110
+msgid "Men"
+msgstr "Miehet"
+
+#: options.php:112 options.php:113
+msgid "Women"
+msgstr "Naiset"
+
+#: options.php:115 options.php:116
+msgid "Kids & Babies"
+msgstr "Lapset ja vauvat"
+
+#: options.php:118 options.php:119
+msgid "Accessories"
+msgstr "Asusteet"
+
+#: options.php:121 options.php:122
+msgid "New Products"
+msgstr "Uusi tuote"
+
+#: options.php:127
+msgid "Article category:"
+msgstr "Tuotekategoria:"
+
+#: options.php:133
+msgid "Social buttons:"
+msgstr "Sosiaaliset napit:"
+
+#: options.php:135 options.php:143 options.php:210 options.php:218
+#: options.php:226 options.php:234 options.php:265 options.php:273
+#: options.php:289
+msgid "Disabled"
+msgstr "Käytössä"
+
+#: options.php:138 options.php:146 options.php:213 options.php:221
+#: options.php:229 options.php:237 options.php:268 options.php:276
+msgid "Enabled"
+msgstr "Ei käytössä"
+
+#: options.php:141
+msgid "Product linking:"
+msgstr "Tuotelinkki:"
+
+#: options.php:149
+msgid "Sort articles by:"
+msgstr "Järjestä tuotteet:"
+
+#: options.php:162
+msgid "Target of links:"
+msgstr "Linkkien kohde:"
+
+#: options.php:163
+msgid ""
+"Enter the name of your target iframe or frame, if available. Default is "
+"_blank (new window)."
+msgstr ""
+"Syötä kohdekehyksen tai iframen nimi, jos käytössä. Oletuksena _blank (uusi "
+"ikkuna)"
+
+#: options.php:169
+msgid "Use iframe for checkout:"
+msgstr "Käytä iframea maksamiseen:"
+
+#: options.php:171
+msgid "Opens in separate window"
+msgstr "Aukeaa erillisessä ikkunassa"
+
+#: options.php:174
+msgid "Opens an iframe in the page content"
+msgstr "Aukeaa iframessa sivulla"
+
+#: options.php:177
+msgid "Opens an iframe in a modal window"
+msgstr "Aukeaa iframessa modaalisessa ikkunassa"
+
+#: options.php:180
+msgid "Use designer:"
+msgstr "Käytä suunnittelua:"
+
+#: options.php:182
+msgid "None"
+msgstr "Ei mitään"
+
+#: options.php:185
+msgid "Integrated [BETA] (All marketplace designs are shown on design tab)"
+msgstr ""
+
+#: options.php:188
+msgid "Premium (Only designs in your premium designer shop are shown)"
+msgstr ""
+
+#: options.php:191
+msgid "Premium Designer Shop Id"
+msgstr ""
+
+#: options.php:194
+msgid ""
+"If you have a designer Shop (Spreadshirt premium account), enter the ID "
+"here. A new link will appear where the customer can change the design."
+msgstr ""
+
+#: options.php:197
+msgid "Default display:"
+msgstr "Oletusnäkymä:"
+
+#: options.php:199
+msgid "Articles"
+msgstr "Tuotteet:"
+
+#: options.php:202
+msgid "Designs"
+msgstr "Grafiikat"
+
+#: options.php:205
+msgid "Designs with background:"
+msgstr "Taustalliset grafiikat:"
+
+#: options.php:206
+msgid ""
+"Displays designs with background color of each first given article/shirt"
+msgstr "Näyttää grafiikat kunkin ensimmäisen tuotteen/paidan taustavärillä"
+
+#: options.php:216
+msgid "Always show article description:"
+msgstr "Näytä tuotteen kuvaus aina:"
+
+#: options.php:224
+msgid "Show product description under article description:"
+msgstr "Näytä tuotteen kuvaus myyntiartikkelin kuvauksen alla:"
+
+#: options.php:232
+msgid "Display price without and with tax:"
+msgstr "Näytä hinta sekä veroton hinta"
+
+#: options.php:240
+msgid "Zoom image background color:"
+msgstr "Zoomauskuvan taustaväri"
+
+#: options.php:244
+msgid "View:"
+msgstr "Näkymä"
+
+#: options.php:246
+msgid "Grid view"
+msgstr "Ruudukko"
+
+#: options.php:249
+msgid "List view"
+msgstr "Lista"
+
+#: options.php:252
+msgid "Min view"
+msgstr "Pienennetty"
+
+#: options.php:255
+msgid "Basket text or icon:"
+msgstr "Korin teksti tai kuvake"
+
+#: options.php:257
+msgid "Text"
+msgstr "Teksti"
+
+#: options.php:260
+msgid "Icon"
+msgstr "Kuvake"
+
+#: options.php:263
+msgid "Infinity scrolling:"
+msgstr "Ääretön skrollaus"
+
+#: options.php:271
+msgid "Lazy load:"
+msgstr "Laiska lataus"
+
+#: options.php:279
+msgid "If active, load images on view (speed up page load)."
+msgstr ""
+"Jos käytössä, kuvat ladataan näytettäessä (nopeuttaa sivun lataamista)"
+
+#: options.php:282
+msgid "Zoom type:"
+msgstr "Zoomaustapa:"
+
+#: options.php:284
+msgid "Inner"
+msgstr "Sisäinen"
+
+#: options.php:287
+msgid "Lens"
+msgstr "Linssi"
+
+#: options.php:292
+msgid "Shop language:"
+msgstr "Kaupan kieli:"
+
+#: options.php:295
+msgid "Wordpress installation language (default)"
+msgstr "Wordpressin asennuskieli (oletus)"
+
+#: options.php:307
+msgid "Custom CSS"
+msgstr "Oma CSS"
+
+#: options.php:311
+msgid "Debug mode:"
+msgstr "Debuggausmoodi:"
+
+#: options.php:313
+msgid "Off"
+msgstr "Pois"
+
+#: options.php:316
+msgid "On"
+msgstr "Päällä"
+
+#: options.php:322
+msgid "Sleep timer:"
+msgstr "Aikakatkaisu:"
+
+#: options.php:329
+msgid "Update settings"
+msgstr "Päivitä asetukset"
+
+#: options.php:339
+msgid "Minimum required shortcode"
+msgstr "Vähin tarvittava lyhytkoodi"
+
+#: options.php:343
+msgid "Extended sample shortcode"
+msgstr "Laajennettu lyhytkoodiesimerkki"
+
+#: options.php:346
+msgid ""
+"The extended shortcodes will overwrite the default settings. You may use it "
+"to create a different shop with the same plugin."
+msgstr ""
+"Laajennetut lyhytkoodit kumoavat oletusasetukset. Voit käyttää niitä "
+"luodaksesi eri kauppoja samalla laajennuksella."
+
+#: options.php:368
+msgid "Options"
+msgstr "Asetukset"
+
+#: options.php:372
+msgid "Rebuild cache"
+msgstr "Virkistä välimuisti"
+
+#: options.php:384
+msgid "Please fill in the highlighted fields!"
+msgstr "Täytä korostetut kentät!"
+
+#: options.php:388
+msgid "Successfully saved settings. Please click rebuild cache if necessary."
+msgstr "Asetukset talletettu. Klikkaa 'virkistä välimuisti' tarvittaessa."
+
+#: spreadplugin.php:358
+msgid "Product category"
+msgstr "Tuotekategoria"
+
+#: spreadplugin.php:383
+msgid "Sort by"
+msgstr "Järjestä"
+
+#: spreadplugin.php:384
+msgid "name"
+msgstr "nimi"
+
+#: spreadplugin.php:385
+msgid "price"
+msgstr "hinta"
+
+#: spreadplugin.php:386
+msgid "recent"
+msgstr "tuoreimmat"
+
+#: spreadplugin.php:387
+msgid "weight"
+msgstr "paino"
+
+#: spreadplugin.php:391 spreadplugin.php:494
+msgid "Basket"
+msgstr "Ostoskori"
+
+#: spreadplugin.php:482
+msgid "next"
+msgstr "seuraava"
+
+#: spreadplugin.php:493
+msgid "Back"
+msgstr "Takaisin"
+
+#: spreadplugin.php:520
+msgid "Order Value"
+msgstr "Tilauksen hinta"
+
+#: spreadplugin.php:522
+msgid "over"
+msgstr "yli"
+
+#: spreadplugin.php:528
+msgid "up to"
+msgstr "jopa"
+
+#: spreadplugin.php:983 spreadplugin.php:1139 spreadplugin.php:1277
+#: spreadplugin.php:1920
+msgid "Edit article"
+msgstr "Muokkaa tuotetta"
+
+#: spreadplugin.php:1001 spreadplugin.php:1177 spreadplugin.php:1301
+#: spreadplugin.php:1960 spreadplugin.php:2048 spreadplugin.php:2352
+#: spreadplugin.php:2373
+msgid "Size"
+msgstr "Koko"
+
+#: spreadplugin.php:1011 spreadplugin.php:1161
+msgid "Details"
+msgstr "Yksityiskohdat"
+
+#: spreadplugin.php:1018 spreadplugin.php:1188 spreadplugin.php:1971
+msgid "Color"
+msgstr "Väri"
+
+#: spreadplugin.php:1059 spreadplugin.php:1169 spreadplugin.php:1700
+msgid "Show article description"
+msgstr "Näytä myyntiartikkelin kuvaus"
+
+#: spreadplugin.php:1070 spreadplugin.php:1702
+msgid "Show product description"
+msgstr "Näytä tuotteen kuvaus"
+
+#: spreadplugin.php:1083 spreadplugin.php:1224 spreadplugin.php:1987
+msgid "Price (without tax):"
+msgstr "Hinta (veroton)"
+
+#: spreadplugin.php:1084 spreadplugin.php:1225 spreadplugin.php:1988
+msgid "Price (with tax):"
+msgstr "Hinta (sis. alv.)"
+
+#: spreadplugin.php:1086 spreadplugin.php:1227 spreadplugin.php:1990
+msgid "excl. <a class=\"shipping-window\">Shipping</a>"
+msgstr "poislukien <a class=\"shipping-window\">Toimitus</a>"
+
+#: spreadplugin.php:1089 spreadplugin.php:1230 spreadplugin.php:1993
+msgid "Price:"
+msgstr "Hinta:"
+
+#: spreadplugin.php:1095 spreadplugin.php:1236 spreadplugin.php:1708
+#: spreadplugin.php:1999
+msgid "Add to basket"
+msgstr "Lisää koriin"
+
+#: spreadplugin.php:1350
+msgid "Click to view the articles"
+msgstr "Klikkaa katsoaksesi ostokset"
+
+#: spreadplugin.php:1357
+msgid "Show description"
+msgstr "Näytä kuvaus"
+
+#: spreadplugin.php:1699
+msgid "Hide article description"
+msgstr "Piilota myyntiartikkelin kuvaus"
+
+#: spreadplugin.php:1701
+msgid "Hide product description"
+msgstr "Piilota tuotteen kuvaus"
+
+#: spreadplugin.php:1704
+msgid "Loading new articles..."
+msgstr "Ladataan tuotteita..."
+
+#: spreadplugin.php:1705
+msgid "You have reached the end"
+msgstr "Olet päässyt loppuun"
+
+#: spreadplugin.php:1709
+msgid "Adding..."
+msgstr "Lisätään..."
+
+#: spreadplugin.php:1710
+msgid "Add failed"
+msgstr "Lisääminen epäonnistui"
+
+#: spreadplugin.php:1945
+msgid "Additional details"
+msgstr "Lisätiedot"
+
+#: spreadplugin.php:1956
+msgid "Product details"
+msgstr "Tuotteen yksityiskohdat"
+
+#: spreadplugin.php:2025
+msgid "Product images"
+msgstr "Tuotteen kuvat"
+
+#: spreadplugin.php:2026
+msgid "Sizes"
+msgstr "Koot"
+
+#: spreadplugin.php:2027
+msgid "Description"
+msgstr "Kuvaus"
+
+#: spreadplugin.php:2031
+msgid "Print Technique"
+msgstr "Painotapa"
+
+#: spreadplugin.php:2062 spreadplugin.php:2074
+msgid "Dimension"
+msgstr "Mittasuhteet"
+
+#: spreadplugin.php:2126
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sinulla ei ole käyttöoikeutta tälle sivulle."
+
+#: spreadplugin.php:2350 spreadplugin.php:2371
+msgid "Remove"
+msgstr "Poista"
+
+#: spreadplugin.php:2352 spreadplugin.php:2373
+msgid "Quantity"
+msgstr "Määrä"
+
+#: spreadplugin.php:2384
+msgid "Total (excl. Shipping)"
+msgstr "Loppusumma (ilman kuljetusta)"
+
+#: spreadplugin.php:2387 spreadplugin.php:2389
+msgid "Proceed to checkout"
+msgstr "Jatka kassalle"
+
+#: spreadplugin.php:2389
+msgid "Basket is empty"
+msgstr "Kori on tyhjä"
+
+msgid "Successfully saved settings"
+msgstr "Asetukset tallennettu"
+
+msgid "Clear cache"
+msgstr "Tyhjennä välimuisti"
+
+msgid "Successfully cleared the cache"
+msgstr "Välimuisti tyhjennetty"
+
+msgid "excl. Shipping"
+msgstr "ilman kuljetusta"
+
+msgid "zzgl. Versandkosten"
+msgstr "ilman käsittelykuluja"
+
+msgid "Default sorting:"
+msgstr "Oletusjärjestys:"
+
+msgid "If you use more than one shop add the complete shortcode."
+msgstr "Jos käytät useampia kauppoja, lisää täydellinen lyhytkoodi."
+
+msgid "Regenerate Cache"
+msgstr "Alusta välimuisti"
+
+msgid "Preis (with tax):"
+msgstr "Hinta (sis. alv.):"
+
+msgid "Preis (ohne MwSt.):"
+msgstr "Hinta (veroton):"

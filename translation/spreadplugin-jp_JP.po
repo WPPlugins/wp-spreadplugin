@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spreadplugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-23 15:52+0100\n"
+"PO-Revision-Date: 2015-07-29 13:26+0200\n"
+"Last-Translator: Naomi Keene <naomi.7@icloud.com>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.8.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options.php:40 spreadplugin.php:2228
+msgid "Settings"
+msgstr "設定"
+
+#: options.php:44
+msgid "These settings will be used as default and can be overwritten by the extended shortcode."
+msgstr "これらの設定はデフォルトとして使用され、拡張されたショートコードで上書きすることができます。"
+
+#: options.php:50
+msgid "Shop id:"
+msgstr "ショップID： "
+
+#: options.php:54
+msgid "Shop country:"
+msgstr "ショップ国："
+
+#: options.php:80
+msgid "Shop source:"
+msgstr "ショップソース："
+
+#: options.php:87
+msgid "Spreadshirt API Key:"
+msgstr "SpreadshirtのAPIキー："
+
+#: options.php:91
+msgid "Spreadshirt API Secret:"
+msgstr "Spreadshirt APIのシークレット： "
+
+#: options.php:95
+msgid "Limit articles per page:"
+msgstr "ページあたりの商品を制限します： "
+
+#: options.php:99
+msgid "Image size:"
+msgstr "画像サイズ："
+
+#: options.php:107
+msgid "Product category:"
+msgstr "品目カテゴリ："
+
+#: options.php:110
+msgid "All products"
+msgstr "すべての品目"
+
+#: options.php:112 options.php:113
+msgid "Men"
+msgstr "メンズ"
+
+#: options.php:115 options.php:116
+msgid "Women"
+msgstr "レディース"
+
+#: options.php:118 options.php:119
+msgid "Kids & Babies"
+msgstr "キッズ＆ベビー"
+
+#: options.php:121 options.php:122
+msgid "Accessories"
+msgstr "アクセサリー"
+
+#: options.php:124 options.php:125
+msgid "New Products"
+msgstr "新しい品目"
+
+#: options.php:130
+msgid "Article category:"
+msgstr "商品のカテゴリ："
+
+#: options.php:136
+msgid "Social buttons:"
+msgstr "ソーシャルボタン： "
+
+#: options.php:138 options.php:146 options.php:214 options.php:222 options.php:230 options.php:238
+#: options.php:269 options.php:277 options.php:293
+msgid "Disabled"
+msgstr "使用不可"
+
+#: options.php:141 options.php:149 options.php:217 options.php:225 options.php:233 options.php:241
+#: options.php:273 options.php:281
+msgid "Enabled"
+msgstr "使用可能"
+
+#: options.php:144
+msgid "Product linking:"
+msgstr "品目リンク："
+
+#: options.php:152
+msgid "Sort articles by:"
+msgstr "商品による並べ替え："
+
+#: options.php:165
+msgid "Target of links:"
+msgstr "対象リンク："
+
+#: options.php:166
+msgid "Enter the name of your target iframe or frame, if available. Default is _blank (new window)."
+msgstr "可能であれば、iframeまたはframeの名前を入力します。デフォルトは_blank（新しいウィンドウ）です。 "
+
+#: options.php:172
+msgid "Use iframe for checkout:"
+msgstr "チェックアウトのためのiframeを使用してください："
+
+#: options.php:174
+msgid "Opens in separate window"
+msgstr "別ウィンドウで開きます"
+
+#: options.php:177
+msgid "Opens an iframe in the page content"
+msgstr "ページのコンテンツにはiframeを開きます"
+
+#: options.php:180
+msgid "Opens an iframe in a modal window"
+msgstr "モーダルウィンドウにiframeを開きます"
+
+#: options.php:183
+msgid "Use designer:"
+msgstr "デザイナーを使用してください："
+
+#: options.php:185
+msgid "None"
+msgstr "なし"
+
+#: options.php:188
+msgid "Integrated [BETA] (All marketplace designs are shown on design tab)"
+msgstr "統合[BETA]（すべてのマーケットプレイスはデザインタブに表示されます）"
+
+#: options.php:191
+msgid "Premium (Only designs in your premium designer shop are shown)"
+msgstr "プレミアム（プレミアムデザイナーショップでのデザインのみが表示されています）"
+
+#: options.php:194
+msgid "Premium Designer Shop Id"
+msgstr "プレミアムデザイナーショップのID "
+
+#: options.php:197
+msgid ""
+"If you have a designer Shop (Spreadshirt premium account), enter the ID here. A new link will appear "
+"where the customer can change the design."
+msgstr ""
+"デザイナーショップをお持ちであれば（Spreadshirtプレミアムアカウント）、ここでIDを入力します。新しいリン"
+"クが表示され、デザインを変更することができます。"
+
+#: options.php:201
+msgid "Default display:"
+msgstr "表示のデフォルト："
+
+#: options.php:203
+msgid "Articles"
+msgstr "商品"
+
+#: options.php:206
+msgid "Designs"
+msgstr "デザイン"
+
+#: options.php:209
+msgid "Designs with background:"
+msgstr "背景デザイン："
+
+#: options.php:210
+msgid "Displays designs with background color of each first given article/shirt"
+msgstr "最初の商品/シャツの背景色でデザインを表示します"
+
+#: options.php:220
+msgid "Always show article description:"
+msgstr "常に商品の説明を表示："
+
+#: options.php:228
+msgid "Show product description under article description:"
+msgstr "商品の説明の下に品目の説明を表示："
+
+#: options.php:236
+msgid "Display price without and with tax:"
+msgstr "税抜き価格と税込価格を表示："
+
+#: options.php:244
+msgid "Zoom image background color:"
+msgstr "背景色の画像にズーム："
+
+#: options.php:248
+msgid "View:"
+msgstr "ビュー： "
+
+#: options.php:250
+msgid "Grid view"
+msgstr "グリッドビュー"
+
+#: options.php:253
+msgid "List view"
+msgstr "リストビュー"
+
+#: options.php:256
+msgid "Min view"
+msgstr "最小ビュー"
+
+#: options.php:260
+msgid "Basket text or icon:"
+msgstr "かごテキストおよびアイコン："
+
+#: options.php:262
+msgid "Text"
+msgstr "テキスト"
+
+#: options.php:265
+msgid "Icon"
+msgstr "アイコン"
+
+#: options.php:268
+msgid "Infinity scrolling:"
+msgstr "無限スクロール："
+
+#: options.php:276
+msgid "Lazy load:"
+msgstr "遅延読み込み："
+
+#: options.php:284
+msgid "If active, load images on view (speed up page load)."
+msgstr "アクティブであれば、ビューに画像を読み込みます（ページの読み込みを高速化）。"
+
+#: options.php:287
+msgid "Zoom type:"
+msgstr "ズームタイプ："
+
+#: options.php:289
+msgid "Inner"
+msgstr "インナー"
+
+#: options.php:292
+msgid "Lens"
+msgstr "レンズ"
+
+#: options.php:298
+msgid "Shop language:"
+msgstr "ショップ言語："
+
+#: options.php:301
+msgid "Wordpress installation language (default)"
+msgstr "Wordpressのインストール言語（デフォルト）"
+
+#: options.php:316
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+#: options.php:320
+msgid "Debug mode:"
+msgstr "デバッグモード："
+
+#: options.php:322
+msgid "Off"
+msgstr "オフ"
+
+#: options.php:325
+msgid "On"
+msgstr "オン"
+
+#: options.php:331
+msgid "Sleep timer:"
+msgstr "スリープタイマー："
+
+#: options.php:338
+msgid "Update settings"
+msgstr "設定のアップデート"
+
+#: options.php:348
+msgid "Minimum required shortcode"
+msgstr "最低限必要なショートコード"
+
+#: options.php:352
+msgid "Extended sample shortcode"
+msgstr "拡張したサンプルショートコード"
+
+#: options.php:355
+msgid ""
+"The extended shortcodes will overwrite the default settings. You may use it to create a different shop "
+"with the same plugin."
+msgstr ""
+"拡張したショートコードは、デフォルトの設定を上書きします。同じプラグインで異なるショップを作成するため"
+"に、使用することができます。"
+
+#: options.php:377
+msgid "Options"
+msgstr "オプション"
+
+#: options.php:381
+msgid "Rebuild cache"
+msgstr "キャッシュの再構築"
+
+#: options.php:545
+msgid "Please fill in the highlighted fields!"
+msgstr "強調表示されたフィールドに入力してください！ "
+
+#: options.php:561
+msgid "Successfully saved settings"
+msgstr "正常に設定が保存されました"
+
+#: spreadplugin.php:360
+msgid "Product category"
+msgstr "品目カテゴリ"
+
+#: spreadplugin.php:385
+msgid "Sort by"
+msgstr "並べ替え"
+
+#: spreadplugin.php:386
+msgid "name"
+msgstr "品名"
+
+#: spreadplugin.php:387
+msgid "price"
+msgstr "価格"
+
+#: spreadplugin.php:388
+msgid "recent"
+msgstr "一つ前"
+
+#: spreadplugin.php:389
+msgid "weight"
+msgstr "重量"
+
+# I choose this word in "Hiragana". But this choice is depends on the conbination with design of the page.
+#: spreadplugin.php:393 spreadplugin.php:496
+msgid "Basket"
+msgstr "かご"
+
+#: spreadplugin.php:484
+msgid "next"
+msgstr "次へ"
+
+#: spreadplugin.php:495
+msgid "Back"
+msgstr "戻る"
+
+#: spreadplugin.php:522
+msgid "Order Value"
+msgstr "購入金額"
+
+#: spreadplugin.php:524
+msgid "over"
+msgstr "以上"
+
+#: spreadplugin.php:530
+msgid "up to"
+msgstr "以下"
+
+#: spreadplugin.php:986 spreadplugin.php:1142 spreadplugin.php:1280 spreadplugin.php:1914
+msgid "Edit article"
+msgstr "商品の編集 "
+
+#: spreadplugin.php:1004 spreadplugin.php:1180 spreadplugin.php:1304 spreadplugin.php:1954
+#: spreadplugin.php:2042 spreadplugin.php:2346 spreadplugin.php:2361
+msgid "Size"
+msgstr "サイズ"
+
+#: spreadplugin.php:1014 spreadplugin.php:1164
+msgid "Details"
+msgstr "詳細"
+
+#: spreadplugin.php:1021 spreadplugin.php:1191 spreadplugin.php:1965
+msgid "Color"
+msgstr "色"
+
+#: spreadplugin.php:1062 spreadplugin.php:1172 spreadplugin.php:1704
+msgid "Show article description"
+msgstr "商品説明の表示"
+
+#: spreadplugin.php:1073 spreadplugin.php:1706
+msgid "Show product description"
+msgstr "品目説明の表示"
+
+#: spreadplugin.php:1086 spreadplugin.php:1227 spreadplugin.php:1981
+msgid "Price (without tax):"
+msgstr "価格（税抜き）："
+
+#: spreadplugin.php:1087 spreadplugin.php:1228 spreadplugin.php:1982
+msgid "Price (with tax):"
+msgstr "価格（税込）： "
+
+# ?
+#: spreadplugin.php:10889 spreadplugin.php:1230 spreadplugin.php:1984
+msgid "excl. <a class=\"shipping-window\">Shipping</a>"
+msgstr "excl. <a class=\"shipping-window\">配送料</a>"
+
+#: spreadplugin.php:1092 spreadplugin.php:1233 spreadplugin.php:1987
+msgid "Price:"
+msgstr "価格："
+
+#: spreadplugin.php:1098 spreadplugin.php:1239 spreadplugin.php:1712 spreadplugin.php:1993
+msgid "Add to basket"
+msgstr "かごに入れる"
+
+#: spreadplugin.php:1353
+msgid "Click to view the articles"
+msgstr "クリックして商品を見る"
+
+#: spreadplugin.php:1360
+msgid "Show description"
+msgstr "説明の表示"
+
+#: spreadplugin.php:1703
+msgid "Hide article description"
+msgstr "商品の説明を隠す"
+
+#: spreadplugin.php:1705
+msgid "Hide product description"
+msgstr "品目の説明を隠す"
+
+#: spreadplugin.php:1708
+msgid "Loading new articles..."
+msgstr "新しい商品を読み込んでいます... "
+
+#: spreadplugin.php:1709
+msgid "You have reached the end"
+msgstr "これで最後です"
+
+#: spreadplugin.php:1713
+msgid "Adding..."
+msgstr "追加しています..."
+
+#: spreadplugin.php:1714
+msgid "Add failed"
+msgstr "追加に失敗しました"
+
+# Need review this on website.
+#: spreadplugin.php:1939
+msgid "Additional details"
+msgstr "追加の詳細 "
+
+#: spreadplugin.php:1950
+msgid "Product details"
+msgstr "品目詳細 "
+
+#: spreadplugin.php:2019
+msgid "Product images"
+msgstr "品目画像 "
+
+#: spreadplugin.php:2020
+msgid "Sizes"
+msgstr "サイズ"
+
+#: spreadplugin.php:2021
+msgid "Description"
+msgstr "説明"
+
+#: spreadplugin.php:2035
+msgid "Print Technique"
+msgstr "プリント技術 "
+
+#: spreadplugin.php:2056 spreadplugin.php:2068
+msgid "Dimension"
+msgstr "寸法"
+
+#: spreadplugin.php:2120
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするための十分な権限がありません。 "
+
+#: spreadplugin.php:2344 spreadplugin.php:2365
+msgid "Remove"
+msgstr "削除"
+
+#: spreadplugin.php:2346 spreadplugin.php:2367
+msgid "Quantity"
+msgstr "数量"
+
+#: spreadplugin.php:2378
+msgid "Total (excl. Shipping)"
+msgstr "合計（送料を除く） "
+
+#: spreadplugin.php:2381 spreadplugin.php:2383
+msgid "Proceed to checkout"
+msgstr "チェックアウトに進む"
+
+#: spreadplugin.php:2383
+msgid "Basket is empty"
+msgstr "かごは空です"
+
+#: options.php:386
+msgid "Successfully saved settings. Please click rebuild cache if necessary."
+msgstr "正常に設定を保存しました。必要に応じてキャッシュの再構築をクリックしてください。"
+
+#~ msgid "Clear cache"
+#~ msgstr "Cache leeren"
+
+#~ msgid "Successfully cleared the cache"
+#~ msgstr "Cache erfolgreich geleert"
+
+#~ msgid "excl. Shipping"
+#~ msgstr "zzgl. Versandkosten"
+
+#~ msgid "Hide description"
+#~ msgstr "Verstecke Beschreibung"
+
+#~ msgid "zzgl. Versandkosten"
+#~ msgstr "zzgl. Versandkosten"
+
+#~ msgid "The product"
+#~ msgstr "Produktdetails"
+
+#~ msgid "Default sorting:"
+#~ msgstr "Standardsortierung:"
+
+#~ msgid "If you use more than one shop add the complete shortcode."
+#~ msgstr "Wenn Sie mehr als einen Shop verwenden, nutzen Sie bitte den erweiterten Shortcode."
+
+#~ msgid "Regenerate Cache"
+#~ msgstr "Cache neu erstellen"
+
+#, fuzzy
+#~ msgid "Preis (with tax):"
+#~ msgstr "Preis (with Tax):"
+
+#~ msgid "Preis (ohne MwSt.):"
+#~ msgstr "Price (without Tax):"

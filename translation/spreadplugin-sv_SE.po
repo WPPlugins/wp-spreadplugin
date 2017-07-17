@@ -1,0 +1,535 @@
+# Robin Lund <robin@robinlund.no>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: Spreadplugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-29 22:11+0100\n"
+"PO-Revision-Date: 2015-01-29 22:21+0100\n"
+"Last-Translator: Thimo Grauerholz <thimo@grauerholz.de>\n"
+"Language-Team: Robin Lund\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options.php:40 spreadplugin.php:2234
+msgid "Settings"
+msgstr "Inställningar"
+
+#: options.php:44
+msgid ""
+"These settings will be used as default and can be overwritten by the "
+"extended shortcode."
+msgstr ""
+"Dessa inställningar används som standard och kan skrivas över med hjälp av "
+"shortcodes."
+
+#: options.php:50
+msgid "Shop id:"
+msgstr "Shop id:"
+
+#: options.php:54
+msgid "Shop country:"
+msgstr "Butiksland:"
+
+#: options.php:77
+msgid "Shop source:"
+msgstr "Butikskälla:"
+
+#: options.php:84
+msgid "Spreadshirt API Key:"
+msgstr "Spreadshirt API-nyckel:"
+
+#: options.php:88
+msgid "Spreadshirt API Secret:"
+msgstr "Spreadshirt API-hemlighet:"
+
+#: options.php:92
+msgid "Limit articles per page:"
+msgstr "Begränsa antalet artiklar / sida:"
+
+#: options.php:96
+msgid "Image size:"
+msgstr "Bildstorlek:"
+
+#: options.php:104
+msgid "Product category:"
+msgstr "Produktkategori:"
+
+#: options.php:107
+msgid "All products"
+msgstr "Alla produkter"
+
+#: options.php:109 options.php:110
+msgid "Men"
+msgstr "Män"
+
+#: options.php:112 options.php:113
+msgid "Women"
+msgstr "Kvinnor"
+
+#: options.php:115 options.php:116
+msgid "Kids & Babies"
+msgstr "Barn & Ungdom"
+
+#: options.php:118 options.php:119
+msgid "Accessories"
+msgstr "Tillbehör"
+
+#: options.php:121 options.php:122
+msgid "New Products"
+msgstr "Nya produkter"
+
+#: options.php:127
+msgid "Article category:"
+msgstr "Artikelkategori"
+
+#: options.php:133
+msgid "Social buttons:"
+msgstr "Sociala knappar:"
+
+#: options.php:135 options.php:143 options.php:210 options.php:218
+#: options.php:226 options.php:234 options.php:265 options.php:273
+#: options.php:289
+msgid "Disabled"
+msgstr "Av"
+
+#: options.php:138 options.php:146 options.php:213 options.php:221
+#: options.php:229 options.php:237 options.php:268 options.php:276
+msgid "Enabled"
+msgstr "På"
+
+#: options.php:141
+msgid "Product linking:"
+msgstr "Produktlänkar:"
+
+#: options.php:149
+msgid "Sort articles by:"
+msgstr "Sortera artiklar efter:"
+
+#: options.php:162
+#, fuzzy
+msgid "Target of links:"
+msgstr "Mål för länkar:"
+
+#: options.php:163
+#, fuzzy
+msgid ""
+"Enter the name of your target iframe or frame, if available. Default is "
+"_blank (new window)."
+msgstr "Ange namn på ditt mål-fönster. Standard är _blank (nytt fönster)"
+
+#: options.php:169
+msgid "Use iframe for checkout:"
+msgstr "Använd iframe för checkout:"
+
+#: options.php:171
+msgid "Opens in separate window"
+msgstr "Öppna i separat fönster"
+
+#: options.php:174
+msgid "Opens an iframe in the page content"
+msgstr "Öppna i iframe på nuvarande sida"
+
+#: options.php:177
+msgid "Opens an iframe in a modal window"
+msgstr "Öppna iframe i ett modalfönster"
+
+#: options.php:180
+msgid "Use designer:"
+msgstr "Använd designer: "
+
+#: options.php:182
+msgid "None"
+msgstr "Ingen"
+
+#: options.php:185
+msgid "Integrated [BETA] (All marketplace designs are shown on design tab)"
+msgstr "Integrerad [BETA] (Alla designer visas under \"design\")"
+
+#: options.php:188
+msgid "Premium (Only designs in your premium designer shop are shown)"
+msgstr "Premium (Endast dina premiumdesigner visas)"
+
+#: options.php:191
+msgid "Premium Designer Shop Id"
+msgstr "Premium Designer Shop Id"
+
+#: options.php:194
+msgid ""
+"If you have a designer Shop (Spreadshirt premium account), enter the ID "
+"here. A new link will appear where the customer can change the design."
+msgstr ""
+"Om du har en designer shop (Spreadshirt Premium-konto) ange ID här. En ny "
+"länk visas där kunden kan ändra design."
+
+#: options.php:197
+msgid "Default display:"
+msgstr "Standardvy:"
+
+#: options.php:199
+msgid "Articles"
+msgstr "Artiklar"
+
+#: options.php:202
+msgid "Designs"
+msgstr "Designer"
+
+#: options.php:205
+msgid "Designs with background:"
+msgstr "Design med bakgrund:"
+
+#: options.php:206
+#, fuzzy
+msgid ""
+"Displays designs with background color of each first given article/shirt"
+msgstr "Visa designer med bakgrundsfärg från vald artikel/tröja"
+
+#: options.php:216
+msgid "Always show article description:"
+msgstr "Visa alltid artikelbeskrivning:"
+
+#: options.php:224
+msgid "Show product description under article description:"
+msgstr "Visa produktbeskrivning under artikelbeskrivning:"
+
+#: options.php:232
+msgid "Display price without and with tax:"
+msgstr "Visa priser inkl. och exkl. moms"
+
+#: options.php:240
+msgid "Zoom image background color:"
+msgstr "Zoom bakgrundfärg"
+
+#: options.php:244
+msgid "View:"
+msgstr "Vy:"
+
+#: options.php:246
+msgid "Grid view"
+msgstr "Grid-vy"
+
+#: options.php:249
+msgid "List view"
+msgstr "Listvy"
+
+#: options.php:252
+msgid "Min view"
+msgstr "Minimal vy"
+
+#: options.php:255
+msgid "Basket text or icon:"
+msgstr "Varukorg text eller ikon"
+
+#: options.php:257
+msgid "Text"
+msgstr "Text"
+
+#: options.php:260
+msgid "Icon"
+msgstr "Ikon"
+
+#: options.php:263
+msgid "Infinity scrolling:"
+msgstr "Oändlig scroll:"
+
+#: options.php:271
+msgid "Lazy load:"
+msgstr "Lazy loda:"
+
+#: options.php:279
+msgid "If active, load images on view (speed up page load)."
+msgstr "Om aktiv, ladda bilder vid visning (kortare laddtider)"
+
+#: options.php:282
+msgid "Zoom type:"
+msgstr "Zoom-typ:"
+
+#: options.php:284
+msgid "Inner"
+msgstr "Inner"
+
+#: options.php:287
+msgid "Lens"
+msgstr "Lins"
+
+#: options.php:292
+msgid "Shop language:"
+msgstr "Språk för shop:"
+
+#: options.php:295
+msgid "Wordpress installation language (default)"
+msgstr "Wordpress installationsspråk (förval):"
+
+#: options.php:307
+msgid "Custom CSS"
+msgstr "Egen CSS"
+
+#: options.php:311
+msgid "Debug mode:"
+msgstr "Debug-läge:"
+
+#: options.php:313
+msgid "Off"
+msgstr "Av"
+
+#: options.php:316
+msgid "On"
+msgstr "På"
+
+#: options.php:322
+msgid "Sleep timer:"
+msgstr "Sov-timer:"
+
+#: options.php:329
+msgid "Update settings"
+msgstr "Uppdatera inställningar"
+
+#: options.php:339
+msgid "Minimum required shortcode"
+msgstr "Minimum shortcode:"
+
+#: options.php:343
+msgid "Extended sample shortcode"
+msgstr "Utökad exempelkod:"
+
+#: options.php:346
+msgid ""
+"The extended shortcodes will overwrite the default settings. You may use it "
+"to create a different shop with the same plugin."
+msgstr ""
+"De utökade shortcodesen skriver över standardinställningarna. Du kan "
+"använde dem för att skapa olika butiker med samma plugin."
+
+#: options.php:368
+msgid "Options"
+msgstr ""
+
+#: options.php:372
+msgid "Rebuild cache"
+msgstr "Uppdatera cache"
+
+#: options.php:384
+msgid "Please fill in the highlighted fields!"
+msgstr "Var vänlig fyll i de markerade fälten!"
+
+#: options.php:388
+msgid "Successfully saved settings. Please click rebuild cache if necessary."
+msgstr "Inställningar sparade. Uppdatera cachen om det behövs."
+
+#: spreadplugin.php:358
+msgid "Product category"
+msgstr "Produktkategori"
+
+#: spreadplugin.php:383
+msgid "Sort by"
+msgstr "Sortera efter"
+
+#: spreadplugin.php:384
+msgid "name"
+msgstr "namn"
+
+#: spreadplugin.php:385
+msgid "price"
+msgstr "pris"
+
+#: spreadplugin.php:386
+msgid "recent"
+msgstr "senaste"
+
+#: spreadplugin.php:387
+msgid "weight"
+msgstr "vikt"
+
+#: spreadplugin.php:391 spreadplugin.php:494
+msgid "Basket"
+msgstr "Varukorg"
+
+#: spreadplugin.php:482
+msgid "next"
+msgstr "Nästa"
+
+#: spreadplugin.php:493
+msgid "Back"
+msgstr "Tillbaka"
+
+#: spreadplugin.php:520
+msgid "Order Value"
+msgstr "Ordervärde"
+
+#: spreadplugin.php:522
+msgid "over"
+msgstr "över"
+
+#: spreadplugin.php:528
+msgid "up to"
+msgstr "upp till"
+
+#: spreadplugin.php:983 spreadplugin.php:1139 spreadplugin.php:1277
+#: spreadplugin.php:1920
+msgid "Edit article"
+msgstr "Redigera artikel"
+
+#: spreadplugin.php:1001 spreadplugin.php:1177 spreadplugin.php:1301
+#: spreadplugin.php:1960 spreadplugin.php:2048 spreadplugin.php:2352
+#: spreadplugin.php:2373
+msgid "Size"
+msgstr "Storlek"
+
+#: spreadplugin.php:1011 spreadplugin.php:1161
+msgid "Details"
+msgstr "Detaljer"
+
+#: spreadplugin.php:1018 spreadplugin.php:1188 spreadplugin.php:1971
+msgid "Color"
+msgstr "Färg"
+
+#: spreadplugin.php:1059 spreadplugin.php:1169 spreadplugin.php:1700
+msgid "Show article description"
+msgstr "Visa artikelbeskrivning"
+
+#: spreadplugin.php:1070 spreadplugin.php:1702
+msgid "Show product description"
+msgstr "Visa artikelbeskrivning"
+
+#: spreadplugin.php:1083 spreadplugin.php:1224 spreadplugin.php:1987
+msgid "Price (without tax):"
+msgstr "Pris (exkl. moms):"
+
+#: spreadplugin.php:1084 spreadplugin.php:1225 spreadplugin.php:1988
+msgid "Price (with tax):"
+msgstr "Pris (inkl.moms):"
+
+#: spreadplugin.php:1086 spreadplugin.php:1227 spreadplugin.php:1990
+msgid "excl. <a class=\"shipping-window\">Shipping</a>"
+msgstr "exkl. frakt"
+
+#: spreadplugin.php:1089 spreadplugin.php:1230 spreadplugin.php:1993
+msgid "Price:"
+msgstr "Pris:"
+
+#: spreadplugin.php:1095 spreadplugin.php:1236 spreadplugin.php:1708
+#: spreadplugin.php:1999
+msgid "Add to basket"
+msgstr "Lägg i varukorg"
+
+#: spreadplugin.php:1350
+msgid "Click to view the articles"
+msgstr "Klicka för att visa artiklar"
+
+#: spreadplugin.php:1357
+msgid "Show description"
+msgstr "Visa besrivning"
+
+#: spreadplugin.php:1699
+msgid "Hide article description"
+msgstr "Dölj artikelbeskrivning"
+
+#: spreadplugin.php:1701
+msgid "Hide product description"
+msgstr "Dölj produktbeskrivning"
+
+#: spreadplugin.php:1704
+msgid "Loading new articles..."
+msgstr "Laddar fler artiklar..."
+
+#: spreadplugin.php:1705
+msgid "You have reached the end"
+msgstr "Inga fler artiklar att ladda"
+
+#: spreadplugin.php:1709
+msgid "Adding..."
+msgstr "Lägger till..."
+
+#: spreadplugin.php:1710
+msgid "Add failed"
+msgstr "Kunde inte lägga till"
+
+#: spreadplugin.php:1945
+msgid "Additional details"
+msgstr "Övrig info"
+
+#: spreadplugin.php:1956
+msgid "Product details"
+msgstr "Produktinfo"
+
+#: spreadplugin.php:2025
+msgid "Product images"
+msgstr "Produktbilder"
+
+#: spreadplugin.php:2026
+msgid "Sizes"
+msgstr "Storlekar"
+
+#: spreadplugin.php:2027
+msgid "Description"
+msgstr "Beskrivning"
+
+#: spreadplugin.php:2031
+msgid "Print Technique"
+msgstr "Typ av print"
+
+#: spreadplugin.php:2062 spreadplugin.php:2074
+msgid "Dimension"
+msgstr "Dimensioner"
+
+#: spreadplugin.php:2126
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har inte behörighet att visa denna sida."
+
+#: spreadplugin.php:2350 spreadplugin.php:2371
+msgid "Remove"
+msgstr "Ta bort"
+
+#: spreadplugin.php:2352 spreadplugin.php:2373
+msgid "Quantity"
+msgstr "Antal"
+
+#: spreadplugin.php:2384
+msgid "Total (excl. Shipping)"
+msgstr "Totalt (exkl. frakt)"
+
+#: spreadplugin.php:2387 spreadplugin.php:2389
+msgid "Proceed to checkout"
+msgstr "Gå vidare till kassa"
+
+#: spreadplugin.php:2389
+msgid "Basket is empty"
+msgstr "Varukorgen är tom"
+
+#~ msgid "Successfully saved settings"
+#~ msgstr "Inställningar sparade"
+
+#~ msgid "Clear cache"
+#~ msgstr "Rensa cache"
+
+#~ msgid "Successfully cleared the cache"
+#~ msgstr "Cache tömd"
+
+#~ msgid "excl. Shipping"
+#~ msgstr "exkl. frakt"
+
+#~ msgid "zzgl. Versandkosten"
+#~ msgstr "exkl. frakt"
+
+#~ msgid "Default sorting:"
+#~ msgstr "Standardsortering:"
+
+#~ msgid "If you use more than one shop add the complete shortcode."
+#~ msgstr "Om du använder mer än en shop, använd hela shortcoden"
+
+#~ msgid "Regenerate Cache"
+#~ msgstr "Uppdatera cache"
+
+#~ msgid "Preis (with tax):"
+#~ msgstr "Pris (inkl.moms):"
+
+#~ msgid "Preis (ohne MwSt.):"
+#~ msgstr "Pris (exkl.moms):"
